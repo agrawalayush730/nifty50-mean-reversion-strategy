@@ -107,4 +107,6 @@ Bachelor of Data Science — SP Jain School of Global Management
 
 ## 📎 License
 
-This project is open for educational and research use.
+This project is released under the MIT License.
+Usage is permitted for portfolio review, research, or educational demonstration.
+Commercial use, redistribution, or modification without attribution is discouraged.
