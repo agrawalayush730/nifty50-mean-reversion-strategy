@@ -52,7 +52,7 @@ for date, row in df.iterrows():
 
     portfolio_values.append(cash + position * price)
 
-# Calculate final stats
+# Calculate final stats 
 start_value = INITIAL_CASH
 end_value = portfolio_values[-1]
 start_date = df.index[0]
